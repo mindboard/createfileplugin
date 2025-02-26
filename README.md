@@ -1,0 +1,6 @@
+
+# CreateFilePlugin
+
+```
+./gradlew publish
+```
